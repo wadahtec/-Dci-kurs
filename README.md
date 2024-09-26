@@ -1,1 +1,1 @@
-# -Dci-kurs
+# Dci-kurs
